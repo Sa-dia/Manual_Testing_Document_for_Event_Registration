@@ -38,13 +38,7 @@ The system allows users to:
 ### ✅ Test Cases
 - Written in Excel / Google Sheets
 - Includes Test Scenario, Steps, Expected Result, Actual Result, Status
-- ![Login test cases]<img width="1800" height="562" alt="image" src="https://github.com/user-attachments/assets/884b1693-8ad2-44fa-9378-f54843d764b7" />
-
-Example files:
-```
-- [Even_Registration_Test_Cases.xlsx](https://1drv.ms/x/c/643b3c34c474e486/IQCHsSYllKSYRrilyaoaJnu0ARrgD5IYnHE9R9WCmM-Q2hg?e=u10ksr) 
- 
-```
+- [Login test cases]<img width="1800" height="562" alt="image" src="https://github.com/user-attachments/assets/884b1693-8ad2-44fa-9378-f54843d764b7" />
 ---
 
 ### 🐞 Bug Reports (Jira Style)
