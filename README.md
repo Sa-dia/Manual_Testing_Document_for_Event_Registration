@@ -57,8 +57,10 @@ Payment_Test_Cases.xlsx
 
 Example:
 ```
-[Registration] Duplicate email allowed
-Severity: Major | Priority: High
+[Registration] Irrelevant Username has been allowed
+Severity: Moderate | Priority: Medium
+<img width="1602" height="732" alt="image" src="https://github.com/user-attachments/assets/8b6b0768-066b-441e-b97e-3e487c54987c" />
+
 ```
 
 ---
