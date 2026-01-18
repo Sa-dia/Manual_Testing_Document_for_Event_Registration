@@ -67,6 +67,7 @@ Severity: Major | Priority: High
 - Test execution summary
 - Pass / Fail / Blocked count
 - Total bugs found
+<img width="728" height="483" alt="image" src="https://github.com/user-attachments/assets/fb945e85-3256-4de4-bd65-00ee93fc4781" />
 
 Example file:
 ```
