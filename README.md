@@ -1,1 +1,116 @@
 # Manual_Testing_Document_for_Event_Registration
+# 🧪 SQA Testing Portfolio
+
+## 👤 Candidate Information
+**Name:** Sadia Hossain  
+**Role:** Manual QA / SQA Engineer  
+
+---
+
+## 📌 Project Overview
+This portfolio contains manual testing artifacts prepared for the **Event Registration System** to demonstrate skills in test case design, bug reporting (Jira style), test execution, and test reporting.
+
+---
+
+## 🧩 Project Name
+**Event Registration System**
+
+The system allows users to:
+- Register and log in
+- Register for events
+- Make payments
+- Admin users to manage and validate events
+
+---
+
+## 🔍 Scope of Testing
+- User Registration  
+- User Login  
+- Event Registration  
+- Payment Processing  
+- Admin Validation  
+- UI Validation  
+
+---
+
+## 🧪 Test Artifacts Included
+
+### ✅ Test Cases
+- Written in Excel / Google Sheets
+- Includes Test Scenario, Steps, Expected Result, Actual Result, Status
+
+Example files:
+```
+Registration_Test_Cases.xlsx
+Login_Test_Cases.xlsx
+Payment_Test_Cases.xlsx
+```
+
+---
+
+### 🐞 Bug Reports (Jira Style)
+- Bug ID
+- Summary
+- Steps to Reproduce
+- Expected vs Actual Result
+- Severity & Priority
+
+Example:
+```
+[Registration] Duplicate email allowed
+Severity: Major | Priority: High
+```
+
+---
+
+### 📊 Test Report
+- Test execution summary
+- Pass / Fail / Blocked count
+- Total bugs found
+
+Example file:
+```
+Test_Report_Event_Registration.docx
+```
+
+---
+
+## 📈 Test Summary Snapshot
+
+| Item | Count |
+|------|------|
+| Total Test Cases | 25 |
+| Passed | 16 |
+| Failed | 6 |
+| Blocked | 3 |
+| Bugs Found | 6 |
+
+---
+
+## 🛠 Tools Used
+- Excel / Google Sheets – Test Case Writing  
+- Jira – Bug Tracking  
+- Google Docs / MS Word – Documentation  
+
+---
+
+## 📁 Folder Structure
+
+```
+SQA-Testing-Portfolio/
+├── Test_Cases/
+├── Bug_Reports/
+├── Test_Report/
+└── README.md
+```
+
+---
+
+## ✅ Conclusion
+This portfolio reflects my understanding of manual testing concepts, STLC, test case creation, Jira bug reporting, and test reporting. It demonstrates my readiness for a Junior SQA Engineer role.
+
+---
+
+## 📩 Contact
+📧 Email: your-email@example.com  
+🔗 LinkedIn: optional
