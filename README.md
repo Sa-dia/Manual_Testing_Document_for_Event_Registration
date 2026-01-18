@@ -79,11 +79,11 @@ Test_Report_Event_Registration.docx
 
 | Item | Count |
 |------|------|
-| Total Test Cases | 25 |
-| Passed | 16 |
-| Failed | 6 |
-| Blocked | 3 |
-| Bugs Found | 6 |
+| Total Test Cases | 16 |
+| Passed | 11 |
+| Failed | 5 |
+| Blocked | 0 |
+| Bugs Found | 5 |
 
 ---
 
@@ -112,5 +112,5 @@ This portfolio reflects my understanding of manual testing concepts, STLC, test 
 ---
 
 ## 📩 Contact
-📧 Email: your-email@example.com  
-🔗 LinkedIn: optional
+📧 Email: hossainsadia2000.com  
+🔗 LinkedIn: [optional](https://www.linkedin.com/in/sadiahossainju/)
