@@ -59,7 +59,9 @@ Example:
 ```
 [Registration] Irrelevant Username has been allowed
 Severity: Moderate | Priority: Medium
-<img width="1602" height="732" alt="image" src="https://github.com/user-attachments/assets/8b6b0768-066b-441e-b97e-3e487c54987c" />
+<img width="1598" height="723" alt="image" src="https://github.com/user-attachments/assets/97991497-446f-40ff-a1eb-fe6b73aac1ab" />
+Detailed Bug Report:
+<img width="643" height="621" alt="image" src="https://github.com/user-attachments/assets/4b8a53c5-fb1c-4299-81d1-48fda0ce2fe8" />
 
 ```
 
