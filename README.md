@@ -57,6 +57,24 @@ The system allows users to:
 
 
 ---
+### 🖼 Actual Test Execution Results (Screenshots)
+The following screenshots show the **actual results obtained after executing test cases** on the Event Registration System. These screenshots validate system behavior against expected results.
+
+#### ✅ User Registration – Successful
+![User Registration Success]![R-1](https://github.com/user-attachments/assets/c55542e5-8db5-4f3f-a74e-b4e10c30b04e)
+
+
+#### ❌ Irrelavant Username Validation
+![Invalid Username Error]![R-5](https://github.com/user-attachments/assets/5ca9be19-d3b7-49bc-b07f-8530d94043b0)
+
+#### ✅ User Login – Successful
+![Login Success]![L-3](https://github.com/user-attachments/assets/f4e857e0-cce8-4b06-b68b-7c5fca36b87e)
+
+#### 📋 Event List Display
+![Event List Page]![E-1](https://github.com/user-attachments/assets/82b050fc-845c-4a56-ae39-636ff13b2f97)
+
+
+---
 
 ### 🐞 Bug Reports (Jira Style)
 - Bug ID
