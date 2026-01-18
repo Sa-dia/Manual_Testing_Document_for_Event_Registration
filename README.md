@@ -34,13 +34,19 @@ The system allows users to:
 ---
 
 ## 🧪 Test Artifacts Included
+### 📋 Overall Test Cases Table
+- Written in **Excel / Google Sheets**  
+- Includes **Test Scenario, Steps, Expected Result, Actual Result, Status**  
 
-### ✅ Test Cases
-- [Overall Test Cases Table]<img width="586" height="575" alt="image" src="https://github.com/user-attachments/assets/e18305dd-f154-44ad-80c6-e47b67d39c95" />
+![Overall Test Cases Table](https://github.com/user-attachments/assets/e18305dd-f154-44ad-80c6-e47b67d39c95)
 
-- Written in Excel / Google Sheets
-- Includes Test Scenario, Steps, Expected Result, Actual Result, Status
-- [Login test cases in excel sheet]<img width="1800" height="562" alt="image" src="https://github.com/user-attachments/assets/884b1693-8ad2-44fa-9378-f54843d764b7" />
+---
+
+### 🔑 Login Test Cases
+- Written in **Excel / Google Sheets**  
+- Includes **Test Scenario, Steps, Expected Result, Actual Result, Status**  
+
+![Login Test Cases](https://github.com/user-attachments/assets/884b1693-8ad2-44fa-9378-f54843d764b7)
 
 
 ---
