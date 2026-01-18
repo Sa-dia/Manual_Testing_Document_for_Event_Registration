@@ -38,7 +38,9 @@ The system allows users to:
 ### ✅ Test Cases
 - Written in Excel / Google Sheets
 - Includes Test Scenario, Steps, Expected Result, Actual Result, Status
-- [Login test cases]<img width="1800" height="562" alt="image" src="https://github.com/user-attachments/assets/884b1693-8ad2-44fa-9378-f54843d764b7" />
+- [Login test cases in excel sheet]<img width="1800" height="562" alt="image" src="https://github.com/user-attachments/assets/884b1693-8ad2-44fa-9378-f54843d764b7" />
+- [Overall Test Cases Table]<img width="586" height="575" alt="image" src="https://github.com/user-attachments/assets/e18305dd-f154-44ad-80c6-e47b67d39c95" />
+
 ---
 
 ### 🐞 Bug Reports (Jira Style)
@@ -65,11 +67,6 @@ Severity: Moderate | Priority: Medium
 - Pass / Fail / Blocked count
 - Total bugs found
 <img width="728" height="483" alt="image" src="https://github.com/user-attachments/assets/fb945e85-3256-4de4-bd65-00ee93fc4781" />
-
-Example file:
-```
-- [Test_Report_Event_Registration.docx](./Test_Report/Test_Report_Event_Registration.docx)  
-```
 
 ---
 
