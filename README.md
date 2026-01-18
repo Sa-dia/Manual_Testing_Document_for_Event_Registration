@@ -9,6 +9,13 @@
 
 ## 📌 Project Overview
 This portfolio contains manual testing artifacts prepared for the **Event Registration System** to demonstrate skills in test case design, bug reporting (Jira style), test execution, and test reporting.
+You can access my test artifacts for the **Event Registration System** below:
+
+- **Test Cases (Excel Sheets)**  
+  [View Test Cases Screenshots & Files](https://github.com/Sa-dia/Manual_Testing_Document_for_Event_Registration/wiki/Test-Cases-in-Excel-Sheet)
+
+- **Test Report (Summary Report)**  
+  [View Test Summary Report](https://github.com/Sa-dia/Manual_Testing_Document_for_Event_Registration/wiki/Test-Summary-Report)
 
 ---
 
