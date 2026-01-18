@@ -38,14 +38,13 @@ The system allows users to:
 ### ✅ Test Cases
 - Written in Excel / Google Sheets
 - Includes Test Scenario, Steps, Expected Result, Actual Result, Status
+- ![Login test cases]<img width="1800" height="562" alt="image" src="https://github.com/user-attachments/assets/884b1693-8ad2-44fa-9378-f54843d764b7" />
 
 Example files:
 ```
-Registration_Test_Cases.xlsx
-Login_Test_Cases.xlsx
-Payment_Test_Cases.xlsx
+- [Even_Registration_Test_Cases.xlsx]([./Test_Cases/Registration_Test_Cases.xlsx](https://1drv.ms/x/c/643b3c34c474e486/IQCHsSYllKSYRrilyaoaJnu0ARrgD5IYnHE9R9WCmM-Q2hg?e=u10ksr))  
+ 
 ```
-
 ---
 
 ### 🐞 Bug Reports (Jira Style)
@@ -60,13 +59,11 @@ Example:
 [Registration] Irrelevant Username has been allowed
 Severity: Moderate | Priority: Medium
 ```
-Jira Style Bug Report:
-<img width="1598" height="723" alt="image" src="https://github.com/user-attachments/assets/97991497-446f-40ff-a1eb-fe6b73aac1ab" />
+**Jira Style Bug Report:**  
+![Jira Bug Screenshot](https://github.com/user-attachments/assets/97991497-446f-40ff-a1eb-fe6b73aac1ab)  
 
-```
-Detailed Bug Report:
-<img width="643" height="621" alt="image" src="https://github.com/user-attachments/assets/4b8a53c5-fb1c-4299-81d1-48fda0ce2fe8" />
-
+**Detailed Bug Report:**  
+![Detailed Bug Screenshot](https://github.com/user-attachments/assets/4b8a53c5-fb1c-4299-81d1-48fda0ce2fe8)  
 ---
 
 ### 📊 Test Report
@@ -77,7 +74,7 @@ Detailed Bug Report:
 
 Example file:
 ```
-Test_Report_Event_Registration.docx
+- [Test_Report_Event_Registration.docx](./Test_Report/Test_Report_Event_Registration.docx)  
 ```
 
 ---
