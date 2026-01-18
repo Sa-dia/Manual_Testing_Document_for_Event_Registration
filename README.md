@@ -110,5 +110,5 @@ This portfolio reflects my understanding of manual testing concepts, STLC, test 
 ---
 
 ## 📩 Contact
-📧 Email: hossainsadia2000.com  
+📧 Email: **hossainsadia2000.com**  
 🔗 LinkedIn: [My_Profile](https://www.linkedin.com/in/sadiahossainju/)
